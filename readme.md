@@ -5,7 +5,7 @@ This is a visually appealing Tic-Tac-Toe game implemented using HTML, CSS, and J
 ## Features
 
 -   **Human vs Human**: Two players can play against each other.
--   **Impossible-AI vs Human**: An AI that never loses plays against a human.
+-   **Impossible-AI vs Human**: An AI that never loses against a human.
 -   **Normal-AI vs Human**: A basic AI that makes random moves plays against a human.
 -   **Responsive and Modern Design**: The game has a modern and appealing look with smooth animations and a clean interface.
 
@@ -47,14 +47,6 @@ This is a visually appealing Tic-Tac-Toe game implemented using HTML, CSS, and J
 -   HTML5
 -   CSS3
 -   JavaScript (ES6)
-
-## Screenshot
-
-![Tic-Tac-Toe Screenshot](screenshot.png)
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contributing
 
