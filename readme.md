@@ -34,11 +34,11 @@ This is a visually appealing Tic-Tac-Toe game implemented using HTML, CSS, and J
 1. Ensure you have a web browser installed.
 2. Clone the repository:
     ```bash
-    git clone https://github.com/Shevilll/tictactoe.git
+    git clone https://github.com/KaranShah1911/Tic-Tac-Toe.git
     ```
 3. Navigate to the project directory:
     ```bash
-    cd tictactoe
+    cd Tic-Tac-Toe
     ```
 4. Open the `index.html` file in your preferred web browser.
 
