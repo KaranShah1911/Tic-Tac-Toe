@@ -47,3 +47,7 @@ This is a visually appealing Tic-Tac-Toe game implemented using HTML, CSS, and J
 -   HTML5
 -   CSS3
 -   JavaScript (ES6)
+
+## Screenshot
+![Game Screenshot](https://github.com/KaranShah1911/Tic-Tac-Toe/blob/main/Tic-Tac-Toe.png)
+
